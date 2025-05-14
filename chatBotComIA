@@ -2,7 +2,7 @@ import openai
 
 
 #insira sua chave API da Open AI aqui
-openai.api_key = "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"
+openai.api_key = "#"
 
 
 def perguntar_gpt(pergunta):
